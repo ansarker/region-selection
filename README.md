@@ -7,10 +7,13 @@ This jupyter-notebook script was written to annotating disaster images. The purp
 2. PIL
 3. Numpy
 
+### Installation
+`$ pip install opencv-python pillow numpy`
+
 ## Input
 1. Directory of Images
 
-### Structure of input directory
+### Directory Structure
 
 data\
     ├── class_1\
@@ -31,8 +34,8 @@ data\
 ### Running the script (Linux)
 1. First activate your anaconda environment
 2. Then run on terminal
-```Shell
-    jupyter-notebook
+```bash
+$ jupyter-notebook
 ```
 
 ###  Process of selection
